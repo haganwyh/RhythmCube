@@ -10,6 +10,14 @@ A 3D music rhythm game built in **Unreal Engine 5** with C++, featuring a 3D not
 
 Rhythm Cube is an open-source 3D rhythm game that challenges players to hit notes as they travel down a 3D highway in sync with the music. Built from the ground up in Unreal Engine 5, the project explores real-time audio visualization, dynamic gameplay mechanics, and level encoding techniques.
 
+## GamePlay
+
+<img width="1379" height="775" alt="圖片1" src="https://github.com/user-attachments/assets/441f3352-b05b-4890-8dc6-1aaf94b43f98" />
+<img width="1919" height="1079" alt="Screenshot 2026-08-29 150251" src="https://github.com/user-attachments/assets/6e76d637-9cdf-4347-b643-1a6dc9773688" />
+<img width="1379" height="775" alt="圖片5" src="https://github.com/user-attachments/assets/a4fbac61-9a8b-4560-95e7-0743173c51ff" />
+<img width="1379" height="774" alt="圖片3" src="https://github.com/user-attachments/assets/53240545-ec82-45e1-b856-905ab41e90ea" />
+<img width="1379" height="775" alt="圖片2" src="https://github.com/user-attachments/assets/6b70c01d-ff24-4577-af98-0fd9c453c7a0" />
+
 ## Features
 
 - **3D Note Highway** — Notes travel along a fully 3D lane system, giving depth and perspective to the gameplay experience.
