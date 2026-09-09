@@ -13,7 +13,8 @@ Rhythm Cube is an open-source 3D rhythm game that challenges players to hit note
 ## GamePlay
 
 <img width="1379" height="775" alt="圖片1" src="https://github.com/user-attachments/assets/441f3352-b05b-4890-8dc6-1aaf94b43f98" />
-<img width="1919" height="1079" alt="Screenshot 2026-08-29 150251" src="https://github.com/user-attachments/assets/6e76d637-9cdf-4347-b643-1a6dc9773688" />
+<img width="1280" height="713" alt="Screenshot 2026-09-09 224520" src="https://github.com/user-attachments/assets/ebf36ae8-cd1e-42ba-b5e4-a56c51368b90" />
+<img width="1279" height="715" alt="Screenshot 2026-09-09 224807" src="https://github.com/user-attachments/assets/8ff74d93-0161-4988-86f2-eeaa178a6bee" />
 <img width="1379" height="775" alt="圖片5" src="https://github.com/user-attachments/assets/a4fbac61-9a8b-4560-95e7-0743173c51ff" />
 <img width="1379" height="774" alt="圖片3" src="https://github.com/user-attachments/assets/53240545-ec82-45e1-b856-905ab41e90ea" />
 <img width="1379" height="775" alt="圖片2" src="https://github.com/user-attachments/assets/6b70c01d-ff24-4577-af98-0fd9c453c7a0" />
